@@ -7,8 +7,8 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=MusheerJ&color=green)
-[![Github](https://img.shields.io/github/followers/MusheerJ?label=Follow&style=social)](https://github.com/MusheerJ)
+![](https://komarev.com/ghpvc/?username=RohitJagdale&color=green)
+[![Github](https://img.shields.io/github/followers/RohitJagdale?label=Follow&style=social)](https://github.com/RohitJagdale)
 <div size='20px'> Hi! My name is Rohit. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align = 'center'> -->
