@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="666" viewBox="0 0 800 666" role="img" aria-labelledby="title">
-<title id="title">Achievements: AWS CERTIFIED DEVELOPER: Associate (DVA-C02) Â· valid Nov 2025 â€“ Nov 2028. AWS GAMEDAY 2025 Â· 2ND: Cloud architecture &amp; operations challenge. AWS DEEPRACER 2024 Â· 3RD: Reinforcement learning on AWS AI/ML. B.TECH, COMPUTER SCIENCE: Rajarambapu Institute of Technology Â· 2023.</title>
+<title id="title">Achievements: AWS CERTIFIED DEVELOPER: Associate (DVA-C02) · valid Nov 2025 – Nov 2028. AWS GAMEDAY 2025 · 2ND: Cloud architecture &amp; operations challenge. AWS DEEPRACER 2024 · 3RD: Reinforcement learning on AWS AI/ML. B.TECH, COMPUTER SCIENCE: Rajarambapu Institute of Technology · 2023.</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -62,16 +62,16 @@
 <text x="48.0" y="72.0" class="mono" font-size="22" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="4">04 // ACHIEVEMENTS</text>
 <text x="48.0" y="134.0" class="sans" font-size="46" font-weight="700" fill="#EEF1FF" text-anchor="start">Trophy cabinet</text><rect x="48.0" y="178" width="72" height="72" rx="20.2" fill="#FFB020" fill-opacity=".1" stroke="#FFB020" stroke-opacity=".45"/><g transform="translate(63.8 193.8) scale(1.680)" fill="none" stroke="#FFB020" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="14.5" r="5.5"/><path d="M8.5 9.8 6 3h4l2 4.5L14 3h4l-2.5 6.8"/></g>
 <text x="142.0" y="200.0" class="mono" font-size="20" font-weight="700" fill="#FFB020" text-anchor="start" letter-spacing="3">AWS CERTIFIED DEVELOPER</text>
-<text x="142.0" y="237.4" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Associate (DVA-C02) Â· valid Nov 2025 â€“</text>
+<text x="142.0" y="237.4" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Associate (DVA-C02) · valid Nov 2025 –</text>
 <text x="142.0" y="273.8" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Nov 2028</text>
 <rect x="48.0" y="314.8" width="72" height="72" rx="20.2" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(63.8 330.6) scale(1.680)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10v5a5 5 0 0 1-10 0Z"/><path d="M7 6H4a3 3 0 0 0 3 4M17 6h3a3 3 0 0 1-3 4M12 14v3.5M8 20.5h8"/></g>
-<text x="142.0" y="336.8" class="mono" font-size="20" font-weight="700" fill="#00E5FF" text-anchor="start" letter-spacing="3">AWS GAMEDAY 2025 Â· 2ND</text>
+<text x="142.0" y="336.8" class="mono" font-size="20" font-weight="700" fill="#00E5FF" text-anchor="start" letter-spacing="3">AWS GAMEDAY 2025 · 2ND</text>
 <text x="142.0" y="374.2" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Cloud architecture &amp; operations challenge</text>
 <rect x="48.0" y="416.8" width="72" height="72" rx="20.2" fill="#FF2BD6" fill-opacity=".1" stroke="#FF2BD6" stroke-opacity=".45"/><g transform="translate(63.8 432.6) scale(1.680)" fill="none" stroke="#FF2BD6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10v5a5 5 0 0 1-10 0Z"/><path d="M7 6H4a3 3 0 0 0 3 4M17 6h3a3 3 0 0 1-3 4M12 14v3.5M8 20.5h8"/></g>
-<text x="142.0" y="438.8" class="mono" font-size="20" font-weight="700" fill="#FF2BD6" text-anchor="start" letter-spacing="3">AWS DEEPRACER 2024 Â· 3RD</text>
+<text x="142.0" y="438.8" class="mono" font-size="20" font-weight="700" fill="#FF2BD6" text-anchor="start" letter-spacing="3">AWS DEEPRACER 2024 · 3RD</text>
 <text x="142.0" y="476.2" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Reinforcement learning on AWS AI/ML</text>
 <rect x="48.0" y="518.8" width="72" height="72" rx="20.2" fill="#A855F7" fill-opacity=".1" stroke="#A855F7" stroke-opacity=".45"/><g transform="translate(63.8 534.6) scale(1.680)" fill="none" stroke="#A855F7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 9 12 4.5 21.5 9 12 13.5Z"/><path d="M6.5 11v4.5c3 2.4 8 2.4 11 0V11M21.5 9v5"/></g>
 <text x="142.0" y="540.8" class="mono" font-size="20" font-weight="700" fill="#A855F7" text-anchor="start" letter-spacing="3">B.TECH, COMPUTER SCIENCE</text>
-<text x="142.0" y="578.2" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Rajarambapu Institute of Technology Â·</text>
+<text x="142.0" y="578.2" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">Rajarambapu Institute of Technology ·</text>
 <text x="142.0" y="614.6" class="sans" font-size="28" font-weight="400" fill="#D4DAF7" text-anchor="start">2023</text>
 </svg>

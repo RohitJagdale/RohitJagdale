@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="110" viewBox="0 0 380 110" role="img" aria-labelledby="title">
-<title id="title">LINKEDIN â€” rohit-jagadale</title>
+<title id="title">LINKEDIN — rohit-jagadale</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -61,6 +61,6 @@
 <rect x="22" y="21" width="68" height="68" rx="19.0" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(37.0 36.0) scale(1.587)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="M8 10.5V16M8 7.6v.1M11.5 16v-5.5M11.5 13c0-1.6 1-2.6 2.4-2.6s2.1.9 2.1 2.6V16"/></g>
 <text x="110.0" y="56.0" class="mono" font-size="28" font-weight="700" fill="#00E5FF" text-anchor="start" letter-spacing="3">LINKEDIN</text>
 <text x="110.0" y="86.0" class="sans" font-size="19" font-weight="500" fill="#A3ACCF" text-anchor="start">rohit-jagadale</text>
-<text x="350.0" y="66.0" class="sans" font-size="32" font-weight="700" fill="#00E5FF" text-anchor="end">â†—</text>
+<text x="350.0" y="66.0" class="sans" font-size="32" font-weight="700" fill="#00E5FF" text-anchor="end">↗</text>
 
 </svg>

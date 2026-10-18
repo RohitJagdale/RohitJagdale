@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="713" viewBox="0 0 1200 713" role="img" aria-labelledby="title">
-<title id="title">About Rohit: Building systems that run themselves. AI AGENTS: MCP servers and Bedrock agents wired into GitLab and the IDE. SERVERLESS: Lambda, AppSync, API Gateway and DynamoDB, all in AWS CDK. DIGITAL TWINS: Real-time 3D station twins built with React and Three.js. DEV PRODUCTIVITY: CI/CD automation, AI code review and faster releases. EXPERIENCE: 3+ years Â· Software Developer at KONE Elevator since Aug 2023.</title>
+<title id="title">About Rohit: Building systems that run themselves. AI AGENTS: MCP servers and Bedrock agents wired into GitLab and the IDE. SERVERLESS: Lambda, AppSync, API Gateway and DynamoDB, all in AWS CDK. DIGITAL TWINS: Real-time 3D station twins built with React and Three.js. DEV PRODUCTIVITY: CI/CD automation, AI code review and faster releases. EXPERIENCE: 3+ years · Software Developer at KONE Elevator since Aug 2023.</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -78,7 +78,7 @@
 <text x="130.0" y="547.1" class="sans" font-size="21" font-weight="400" fill="#D4DAF7" text-anchor="start">releases</text>
 <rect x="56" y="578.4000000000001" width="52" height="52" rx="14.6" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(67.4 589.8) scale(1.213)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2.5"/><path d="M9 7V5h6v2M3 12.5h18"/></g>
 <text x="130.0" y="594.4" class="mono" font-size="14" font-weight="700" fill="#00E5FF" text-anchor="start" letter-spacing="3">EXPERIENCE</text>
-<text x="130.0" y="624.5" class="sans" font-size="21" font-weight="400" fill="#D4DAF7" text-anchor="start">3+ years Â· Software Developer at KONE Elevator</text>
+<text x="130.0" y="624.5" class="sans" font-size="21" font-weight="400" fill="#D4DAF7" text-anchor="start">3+ years · Software Developer at KONE Elevator</text>
 <text x="130.0" y="651.8" class="sans" font-size="21" font-weight="400" fill="#D4DAF7" text-anchor="start">since Aug 2023</text><rect x="752" y="160" width="392" height="304" rx="18" fill="#05061A" stroke="#2A3366"/>
 <path d="M752 206h392" stroke="#2A3366"/>
 <circle cx="778" cy="183" r="6.5" fill="#FB7185"/>
@@ -86,9 +86,9 @@
 <circle cx="822" cy="183" r="6.5" fill="#34D399"/>
 <text x="1122.0" y="188.0" class="mono" font-size="14.040000000000001" font-weight="500" fill="#6B7499" text-anchor="end">rohit@kone: ~</text>
 <text x="778.0" y="244.0" class="mono" font-size="18" font-weight="500" fill="#6B7499" text-anchor="start">$ whoami</text>
-<text x="778.0" y="276.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">â†’ rohit jagadale</text>
-<text x="778.0" y="308.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">â†’ full stack &amp; cloud dev</text>
-<text x="778.0" y="340.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">â†’ pune, india</text>
+<text x="778.0" y="276.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">→ rohit jagadale</text>
+<text x="778.0" y="308.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">→ full stack &amp; cloud dev</text>
+<text x="778.0" y="340.0" class="mono" font-size="18" font-weight="500" fill="#EEF1FF" text-anchor="start">→ pune, india</text>
 <text x="778.0" y="404.0" class="mono" font-size="18" font-weight="500" fill="#6B7499" text-anchor="start">$ cat currently.txt</text>
 <text x="778.0" y="436.0" class="mono" font-size="18" font-weight="500" fill="#FF2BD6" text-anchor="start">agents that fix code first</text>
 <rect class="cursor" x="1069" y="421" width="10" height="19" fill="#FF2BD6"/>
