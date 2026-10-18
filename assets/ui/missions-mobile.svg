@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="2301" viewBox="0 0 800 2301" role="img" aria-labelledby="title">
+<title id="title">Projects: MCP Servers for Jira &amp; CVMS (MODEL CONTEXT PROTOCOL Â· IDE): Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor. Risk-Remediation Agent (AWS BEDROCK Â· GITLAB CI/CD): An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes. AI Code Review System (BEDROCK Â· LAMBDA Â· PROMPTS): Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles. StationTwin (METRO DIGITAL TWIN): Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK. Results: â–²40% faster 3D loads, â–²50% faster releases, â–¼25% latency. Customer Onboarding Portal (REACT Â· SERVERLESS Â· DYNAMODB Â· RDS): Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.</title>
+<style>
+.sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
+.twinkle{animation:twinkle 4s ease-in-out infinite}
+.aurora{animation:aurora 16s ease-in-out infinite alternate}
+.aurora.b{animation-duration:21s;animation-direction:alternate-reverse}
+.glow{animation:glow 6s ease-in-out infinite}
+.cursor{animation:blink 1.1s steps(1) infinite}
+.sweep{animation:sweep 9s ease-in-out infinite}
+.grid{animation:grid 2.4s linear infinite}
+.drone{animation:drone 14s ease-in-out infinite alternate}
+.wave{animation:wave 14s linear infinite}
+.wave.b{animation-duration:22s;animation-direction:reverse}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes twinkle{0%,100%{opacity:.2}50%{opacity:1}}
+@keyframes aurora{from{transform:translate(-40px,0)}to{transform:translate(60px,18px)}}
+@keyframes glow{0%,100%{opacity:.6}50%{opacity:1}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes sweep{0%{transform:translateX(-30%)}100%{transform:translateX(130%)}}
+@keyframes grid{from{transform:translateY(0)}to{transform:translateY(24px)}}
+@keyframes drone{from{transform:translate(0,0)}to{transform:translate(-140px,26px)}}
+@keyframes wave{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(.8)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#00E5FF"/><stop offset="1" stop-color="#FF2BD6"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#FF2BD6"/>
+</linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#0C1130"/><stop offset="1" stop-color="#080B1D"/>
+</linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#00E5FF" stop-opacity=".6"/><stop offset=".45" stop-color="#A855F7" stop-opacity=".25"/>
+  <stop offset="1" stop-color="#FF2BD6" stop-opacity=".5"/>
+</linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#141A3D"/><stop offset="1" stop-color="#0E1230"/>
+</linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/>
+  <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glowCyan"><stop offset="0" stop-color="#00E5FF" stop-opacity=".45"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowViolet"><stop offset="0" stop-color="#A855F7" stop-opacity=".55"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowPink"><stop offset="0" stop-color="#FF2BD6" stop-opacity=".4"/><stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/></radialGradient>
+</defs>
+<clipPath id="clip"><rect width="800" height="2301" rx="28"/></clipPath>
+<g clip-path="url(#clip)">
+<rect width="800" height="2301" fill="url(#card)"/>
+<ellipse cx="720" cy="0" rx="280" ry="1035" fill="url(#glowViolet)" opacity=".55"/>
+<ellipse cx="0" cy="2301" rx="240" ry="805" fill="url(#glowCyan)" opacity=".35"/>
+<rect class="sweep" x="0" y="0" width="280" height="2301" fill="url(#beam)"/>
+</g>
+<rect x=".75" y=".75" width="798.5" height="2299.5" rx="27.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<rect x="48" y="0" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="48.0" y="72.0" class="mono" font-size="22" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="4">02 // MISSION LOG</text>
+<text x="48.0" y="134.0" class="sans" font-size="46" font-weight="700" fill="#EEF1FF" text-anchor="start">Things I&#x27;ve shipped</text><rect x="48.0" y="174" width="704.0" height="378" rx="20" fill="url(#tile)" stroke="#00E5FF" stroke-opacity=".28"/>
+<rect x="72.0" y="174" width="246" height="2" fill="#00E5FF" opacity=".8"/>
+<rect x="84.0" y="210" width="72" height="72" rx="20.2" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(99.8 225.8) scale(1.680)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.6"/><circle cx="5" cy="18" r="2.6"/><circle cx="19" cy="18" r="2.6"/><path d="M10.7 7.3 6.3 15.7M13.3 7.3l4.4 8.4M7.6 18h8.8"/></g>
+<text x="174.0" y="242.4" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">MCP Servers for Jira &amp; CVMS</text>
+<text x="174.0" y="274.4" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">MODEL CONTEXT PROTOCOL Â· IDE</text>
+<text x="84.0" y="326.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Python MCP servers that let AI agents in VS</text>
+<text x="84.0" y="366.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Code and Kiro IDE fetch context, analyse</text>
+<text x="84.0" y="405.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">issues and run developer workflows from the</text>
+<text x="84.0" y="444.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">editor.</text>
+<g transform="translate(0 470)"><rect x="84.0" y="0.0" width="110.9" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="110.9" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="139.4" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">Python</text>
+<rect x="202.9" y="0.0" width="72.4" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="202.9" y="0.0" width="72.4" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="239.1" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">MCP</text>
+<rect x="283.3" y="0.0" width="187.7" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="283.3" y="0.0" width="187.7" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="377.2" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">Tool Calling</text></g>
+<rect x="48.0" y="580" width="704.0" height="378" rx="20" fill="url(#tile)" stroke="#A855F7" stroke-opacity=".28"/>
+<rect x="72.0" y="579.5999999999999" width="246" height="2" fill="#A855F7" opacity=".8"/>
+<rect x="84.0" y="615.5999999999999" width="72" height="72" rx="20.2" fill="#A855F7" fill-opacity=".1" stroke="#A855F7" stroke-opacity=".45"/><g transform="translate(99.8 631.4) scale(1.680)" fill="none" stroke="#A855F7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.8 19.5 6v5.6c0 4.6-3.1 8.2-7.5 9.6-4.4-1.4-7.5-5-7.5-9.6V6Z"/><path d="m8.6 12 2.4 2.4 4.4-4.6"/></g>
+<text x="174.0" y="648.0" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">Risk-Remediation Agent</text>
+<text x="174.0" y="680.0" class="mono" font-size="20" font-weight="600" fill="#A855F7" text-anchor="start" letter-spacing="2">AWS BEDROCK Â· GITLAB CI/CD</text>
+<text x="84.0" y="732.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">An agent in GitLab CI/CD that fetches CVMS</text>
+<text x="84.0" y="771.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">software-risk issues, analyses them and</text>
+<text x="84.0" y="810.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">opens merge requests with AI-proposed</text>
+<text x="84.0" y="850.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">fixes.</text>
+<g transform="translate(0 875)"><rect x="84.0" y="0.0" width="123.7" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="123.7" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="145.8" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">Bedrock</text>
+<rect x="215.7" y="0.0" width="187.7" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="215.7" y="0.0" width="187.7" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="309.5" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">GitLab CI/CD</text>
+<rect x="411.4" y="0.0" width="149.3" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="411.4" y="0.0" width="149.3" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="486.0" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">AI Agents</text></g>
+<rect x="48.0" y="985" width="704.0" height="378" rx="20" fill="url(#tile)" stroke="#FF2BD6" stroke-opacity=".28"/>
+<rect x="72.0" y="985.1999999999999" width="246" height="2" fill="#FF2BD6" opacity=".8"/>
+<rect x="84.0" y="1021.1999999999999" width="72" height="72" rx="20.2" fill="#FF2BD6" fill-opacity=".1" stroke="#FF2BD6" stroke-opacity=".45"/><g transform="translate(99.8 1037.0) scale(1.680)" fill="none" stroke="#FF2BD6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m8.5 7-5 5 5 5M15.5 7l5 5-5 5M13.5 4.5l-3 15"/></g>
+<text x="174.0" y="1053.6" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">AI Code Review System</text>
+<text x="174.0" y="1085.6" class="mono" font-size="20" font-weight="600" fill="#FF2BD6" text-anchor="start" letter-spacing="2">BEDROCK Â· LAMBDA Â· PROMPTS</text>
+<text x="84.0" y="1138.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Parses merge-request diffs, writes</text>
+<text x="84.0" y="1177.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">contextual line-level feedback and</text>
+<text x="84.0" y="1216.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">de-duplicates comments across review</text>
+<text x="84.0" y="1255.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">cycles.</text>
+<g transform="translate(0 1281)"><rect x="84.0" y="0.0" width="123.7" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="123.7" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="145.8" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">Bedrock</text>
+<rect x="215.7" y="0.0" width="110.9" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="215.7" y="0.0" width="110.9" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="271.1" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">Lambda</text>
+<rect x="334.5" y="0.0" width="174.9" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="334.5" y="0.0" width="174.9" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="422.0" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">Prompt Eng.</text></g>
+<rect x="48.0" y="1391" width="704.0" height="464" rx="20" fill="url(#tile)" stroke="#FFB020" stroke-opacity=".28"/>
+<rect x="72.0" y="1390.7999999999997" width="246" height="2" fill="#FFB020" opacity=".8"/>
+<rect x="84.0" y="1426.7999999999997" width="72" height="72" rx="20.2" fill="#FFB020" fill-opacity=".1" stroke="#FFB020" stroke-opacity=".45"/><g transform="translate(99.8 1442.6) scale(1.680)" fill="none" stroke="#FFB020" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20.5h18M5 20.5V9.5l7-5 7 5v11"/><path d="M9 20.5v-6h6v6M8.5 10.5h7"/></g>
+<text x="174.0" y="1459.2" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">StationTwin</text>
+<text x="174.0" y="1491.2" class="mono" font-size="20" font-weight="600" fill="#FFB020" text-anchor="start" letter-spacing="2">METRO DIGITAL TWIN</text>
+<text x="84.0" y="1543.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Real-time 3D twin of metro stations: React</text>
+<text x="84.0" y="1582.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">+ Three.js, GraphQL on AppSync, GenAI</text>
+<text x="84.0" y="1622.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">summaries every 8 hours, all in AWS CDK.</text>
+<rect x="84" y="1647" width="323" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="245.6" y="1681.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–²40% faster 3D loads</text>
+<rect x="84" y="1707" width="323" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="245.6" y="1741.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–²50% faster releases</text>
+<rect x="415" y="1707" width="216" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="523.2" y="1741.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–¼25% latency</text>
+<g transform="translate(0 1773)"><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="133.0" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">React</text>
+<rect x="190.1" y="0.0" width="136.5" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="190.1" y="0.0" width="136.5" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="258.3" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">Three.js</text>
+<rect x="334.5" y="0.0" width="123.7" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="334.5" y="0.0" width="123.7" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="396.4" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">AppSync</text>
+<rect x="466.2" y="0.0" width="72.4" height="46" rx="23.0" fill="none" stroke="#FFB020" stroke-opacity=".6"/><rect x="466.2" y="0.0" width="72.4" height="46" rx="23.0" fill="#FFB020" fill-opacity=".1"/><text x="502.4" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FFB020" text-anchor="middle" letter-spacing="1">CDK</text></g>
+<rect x="48.0" y="1883" width="704.0" height="378" rx="20" fill="url(#tile)" stroke="#00E5FF" stroke-opacity=".28"/>
+<rect x="72.0" y="1883.1999999999998" width="246" height="2" fill="#00E5FF" opacity=".8"/>
+<rect x="84.0" y="1919.1999999999998" width="72" height="72" rx="20.2" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(99.8 1935.0) scale(1.680)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4.5" y="3" width="15" height="18" rx="2.5"/><path d="M8 8h8M8 12h8M8 16h5"/></g>
+<text x="174.0" y="1951.6" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">Customer Onboarding Portal</text>
+<text x="174.0" y="1983.6" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">REACT Â· SERVERLESS Â· DYNAMODB Â· RDS</text>
+<text x="84.0" y="2036.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Multi-step site-configuration portal with</text>
+<text x="84.0" y="2075.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">per-stage validation, two-phase storage in</text>
+<text x="84.0" y="2114.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">DynamoDB and RDS PostgreSQL, and pre-signed</text>
+<text x="84.0" y="2153.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">S3 uploads for documents and 3D models.</text>
+<g transform="translate(0 2179)"><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="133.0" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">React</text>
+<rect x="190.1" y="0.0" width="98.0" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="190.1" y="0.0" width="98.0" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="239.1" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">Redux</text>
+<rect x="296.1" y="0.0" width="110.9" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="296.1" y="0.0" width="110.9" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="351.5" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">Python</text>
+<rect x="415.0" y="0.0" width="59.6" height="46" rx="23.0" fill="none" stroke="#FFB020" stroke-opacity=".6"/><rect x="415.0" y="0.0" width="59.6" height="46" rx="23.0" fill="#FFB020" fill-opacity=".1"/><text x="444.8" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FFB020" text-anchor="middle" letter-spacing="1">S3</text>
+<rect x="482.6" y="0.0" width="72.4" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="482.6" y="0.0" width="72.4" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="518.8" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">CDK</text></g>
+</svg>
