@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="2301" viewBox="0 0 800 2301" role="img" aria-labelledby="title">
-<title id="title">Projects: MCP Servers for Jira &amp; CVMS (MODEL CONTEXT PROTOCOL Â· IDE): Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor. Risk-Remediation Agent (AWS BEDROCK Â· GITLAB CI/CD): An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes. AI Code Review System (BEDROCK Â· LAMBDA Â· PROMPTS): Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles. StationTwin (METRO DIGITAL TWIN): Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK. Results: â–²40% faster 3D loads, â–²50% faster releases, â–¼25% latency. Customer Onboarding Portal (REACT Â· SERVERLESS Â· DYNAMODB Â· RDS): Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.</title>
+<title id="title">Projects: MCP Servers for Jira &amp; CVMS (MODEL CONTEXT PROTOCOL · IDE): Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor. Risk-Remediation Agent (AWS BEDROCK · GITLAB CI/CD): An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes. AI Code Review System (BEDROCK · LAMBDA · PROMPTS): Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles. StationTwin (METRO DIGITAL TWIN): Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK. Results: ▲40% faster 3D loads, ▲50% faster releases, ▼25% latency. Customer Onboarding Portal (REACT · SERVERLESS · DYNAMODB · RDS): Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -64,7 +64,7 @@
 <rect x="72.0" y="174" width="246" height="2" fill="#00E5FF" opacity=".8"/>
 <rect x="84.0" y="210" width="72" height="72" rx="20.2" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(99.8 225.8) scale(1.680)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.6"/><circle cx="5" cy="18" r="2.6"/><circle cx="19" cy="18" r="2.6"/><path d="M10.7 7.3 6.3 15.7M13.3 7.3l4.4 8.4M7.6 18h8.8"/></g>
 <text x="174.0" y="242.4" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">MCP Servers for Jira &amp; CVMS</text>
-<text x="174.0" y="274.4" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">MODEL CONTEXT PROTOCOL Â· IDE</text>
+<text x="174.0" y="274.4" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">MODEL CONTEXT PROTOCOL · IDE</text>
 <text x="84.0" y="326.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Python MCP servers that let AI agents in VS</text>
 <text x="84.0" y="366.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Code and Kiro IDE fetch context, analyse</text>
 <text x="84.0" y="405.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">issues and run developer workflows from the</text>
@@ -76,7 +76,7 @@
 <rect x="72.0" y="579.5999999999999" width="246" height="2" fill="#A855F7" opacity=".8"/>
 <rect x="84.0" y="615.5999999999999" width="72" height="72" rx="20.2" fill="#A855F7" fill-opacity=".1" stroke="#A855F7" stroke-opacity=".45"/><g transform="translate(99.8 631.4) scale(1.680)" fill="none" stroke="#A855F7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.8 19.5 6v5.6c0 4.6-3.1 8.2-7.5 9.6-4.4-1.4-7.5-5-7.5-9.6V6Z"/><path d="m8.6 12 2.4 2.4 4.4-4.6"/></g>
 <text x="174.0" y="648.0" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">Risk-Remediation Agent</text>
-<text x="174.0" y="680.0" class="mono" font-size="20" font-weight="600" fill="#A855F7" text-anchor="start" letter-spacing="2">AWS BEDROCK Â· GITLAB CI/CD</text>
+<text x="174.0" y="680.0" class="mono" font-size="20" font-weight="600" fill="#A855F7" text-anchor="start" letter-spacing="2">AWS BEDROCK · GITLAB CI/CD</text>
 <text x="84.0" y="732.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">An agent in GitLab CI/CD that fetches CVMS</text>
 <text x="84.0" y="771.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">software-risk issues, analyses them and</text>
 <text x="84.0" y="810.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">opens merge requests with AI-proposed</text>
@@ -88,7 +88,7 @@
 <rect x="72.0" y="985.1999999999999" width="246" height="2" fill="#FF2BD6" opacity=".8"/>
 <rect x="84.0" y="1021.1999999999999" width="72" height="72" rx="20.2" fill="#FF2BD6" fill-opacity=".1" stroke="#FF2BD6" stroke-opacity=".45"/><g transform="translate(99.8 1037.0) scale(1.680)" fill="none" stroke="#FF2BD6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m8.5 7-5 5 5 5M15.5 7l5 5-5 5M13.5 4.5l-3 15"/></g>
 <text x="174.0" y="1053.6" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">AI Code Review System</text>
-<text x="174.0" y="1085.6" class="mono" font-size="20" font-weight="600" fill="#FF2BD6" text-anchor="start" letter-spacing="2">BEDROCK Â· LAMBDA Â· PROMPTS</text>
+<text x="174.0" y="1085.6" class="mono" font-size="20" font-weight="600" fill="#FF2BD6" text-anchor="start" letter-spacing="2">BEDROCK · LAMBDA · PROMPTS</text>
 <text x="84.0" y="1138.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Parses merge-request diffs, writes</text>
 <text x="84.0" y="1177.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">contextual line-level feedback and</text>
 <text x="84.0" y="1216.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">de-duplicates comments across review</text>
@@ -104,12 +104,12 @@
 <text x="84.0" y="1543.6" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Real-time 3D twin of metro stations: React</text>
 <text x="84.0" y="1582.8" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">+ Three.js, GraphQL on AppSync, GenAI</text>
 <text x="84.0" y="1622.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">summaries every 8 hours, all in AWS CDK.</text>
-<rect x="84" y="1647" width="323" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
-<text x="245.6" y="1681.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–²40% faster 3D loads</text>
-<rect x="84" y="1707" width="323" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
-<text x="245.6" y="1741.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–²50% faster releases</text>
-<rect x="415" y="1707" width="216" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
-<text x="523.2" y="1741.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">â–¼25% latency</text>
+<rect x="84" y="1647" width="296" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="232.2" y="1681.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">▲40% faster 3D loads</text>
+<rect x="388" y="1647" width="296" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="536.6" y="1681.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">▲50% faster releases</text>
+<rect x="84" y="1707" width="189" height="52" rx="10" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/>
+<text x="178.5" y="1741.1" class="mono" font-size="22" font-weight="700" fill="#6EE7B7" text-anchor="middle">▼25% latency</text>
 <g transform="translate(0 1773)"><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="84.0" y="0.0" width="98.0" height="46" rx="23.0" fill="#00E5FF" fill-opacity=".1"/><text x="133.0" y="30.6" class="mono" font-size="21" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">React</text>
 <rect x="190.1" y="0.0" width="136.5" height="46" rx="23.0" fill="none" stroke="#A855F7" stroke-opacity=".6"/><rect x="190.1" y="0.0" width="136.5" height="46" rx="23.0" fill="#A855F7" fill-opacity=".1"/><text x="258.3" y="30.6" class="mono" font-size="21" font-weight="600" fill="#A855F7" text-anchor="middle" letter-spacing="1">Three.js</text>
 <rect x="334.5" y="0.0" width="123.7" height="46" rx="23.0" fill="none" stroke="#FF2BD6" stroke-opacity=".6"/><rect x="334.5" y="0.0" width="123.7" height="46" rx="23.0" fill="#FF2BD6" fill-opacity=".1"/><text x="396.4" y="30.6" class="mono" font-size="21" font-weight="600" fill="#FF2BD6" text-anchor="middle" letter-spacing="1">AppSync</text>
@@ -118,7 +118,7 @@
 <rect x="72.0" y="1883.1999999999998" width="246" height="2" fill="#00E5FF" opacity=".8"/>
 <rect x="84.0" y="1919.1999999999998" width="72" height="72" rx="20.2" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".45"/><g transform="translate(99.8 1935.0) scale(1.680)" fill="none" stroke="#00E5FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4.5" y="3" width="15" height="18" rx="2.5"/><path d="M8 8h8M8 12h8M8 16h5"/></g>
 <text x="174.0" y="1951.6" class="sans" font-size="34" font-weight="700" fill="#EEF1FF" text-anchor="start">Customer Onboarding Portal</text>
-<text x="174.0" y="1983.6" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">REACT Â· SERVERLESS Â· DYNAMODB Â· RDS</text>
+<text x="174.0" y="1983.6" class="mono" font-size="20" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="2">REACT · SERVERLESS · DYNAMODB · RDS</text>
 <text x="84.0" y="2036.0" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">Multi-step site-configuration portal with</text>
 <text x="84.0" y="2075.2" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">per-stage validation, two-phase storage in</text>
 <text x="84.0" y="2114.4" class="sans" font-size="28" font-weight="400" fill="#C9D0F0" text-anchor="start">DynamoDB and RDS PostgreSQL, and pre-signed</text>

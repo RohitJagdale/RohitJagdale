@@ -4,21 +4,21 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/hero-mobile.svg">
-  <img src="assets/ui/hero.svg" width="100%" alt="ROHIT JAGADALE â€” Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun.">
+  <img src="assets/ui/hero.svg" width="100%" alt="ROHIT JAGADALE — Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun.">
 </picture>
 
-<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/"><img src="assets/ui/btn-linkedin.svg" width="32%" alt="Linkedin â€” rohit-jagadale"></a>
-<a href="mailto:rohitjagadale4@gmail.com"><img src="assets/ui/btn-mail.svg" width="32%" alt="Gmail â€” say hello"></a>
-<a href="https://www.credly.com/badges/353ecc9b-15c6-4e49-ad0b-f9968e63480a/linked_in_profile"><img src="assets/ui/btn-medal.svg" width="32%" alt="Aws Cert â€” verify on Credly"></a>
+<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/"><img src="assets/ui/btn-linkedin.svg" width="32%" alt="Linkedin — rohit-jagadale"></a>
+<a href="mailto:rohitjagadale4@gmail.com"><img src="assets/ui/btn-mail.svg" width="32%" alt="Gmail — say hello"></a>
+<a href="https://www.credly.com/badges/353ecc9b-15c6-4e49-ad0b-f9968e63480a/linked_in_profile"><img src="assets/ui/btn-medal.svg" width="32%" alt="Aws Cert — verify on Credly"></a>
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/about-mobile.svg">
-  <img src="assets/ui/about.svg" width="100%" alt="About Rohit: Building systems that run themselves. AI AGENTS: MCP servers and Bedrock agents wired into GitLab and the IDE. SERVERLESS: Lambda, AppSync, API Gateway and DynamoDB, all in AWS CDK. DIGITAL TWINS: Real-time 3D station twins built with React and Three.js. DEV PRODUCTIVITY: CI/CD automation, AI code review and faster releases. EXPERIENCE: 3+ years Â· Software Developer at KONE Elevator since Aug 2023.">
+  <img src="assets/ui/about.svg" width="100%" alt="About Rohit: Building systems that run themselves. AI AGENTS: MCP servers and Bedrock agents wired into GitLab and the IDE. SERVERLESS: Lambda, AppSync, API Gateway and DynamoDB, all in AWS CDK. DIGITAL TWINS: Real-time 3D station twins built with React and Three.js. DEV PRODUCTIVITY: CI/CD automation, AI code review and faster releases. EXPERIENCE: 3+ years · Software Developer at KONE Elevator since Aug 2023.">
 </picture>
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/missions-mobile.svg">
-  <img src="assets/ui/missions.svg" width="100%" alt="Projects: MCP Servers for Jira &amp; CVMS (MODEL CONTEXT PROTOCOL Â· IDE): Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor. Risk-Remediation Agent (AWS BEDROCK Â· GITLAB CI/CD): An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes. AI Code Review System (BEDROCK Â· LAMBDA Â· PROMPTS): Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles. StationTwin (METRO DIGITAL TWIN): Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK. Results: â–²40% faster 3D loads, â–²50% faster releases, â–¼25% latency. Customer Onboarding Portal (REACT Â· SERVERLESS Â· DYNAMODB Â· RDS): Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.">
+  <img src="assets/ui/missions.svg" width="100%" alt="Projects: MCP Servers for Jira &amp; CVMS (MODEL CONTEXT PROTOCOL · IDE): Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor. Risk-Remediation Agent (AWS BEDROCK · GITLAB CI/CD): An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes. AI Code Review System (BEDROCK · LAMBDA · PROMPTS): Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles. StationTwin (METRO DIGITAL TWIN): Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK. Results: ▲40% faster 3D loads, ▲50% faster releases, ▼25% latency. Customer Onboarding Portal (REACT · SERVERLESS · DYNAMODB · RDS): Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.">
 </picture>
 
 <picture>
@@ -28,12 +28,12 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/achievements-mobile.svg">
-  <img src="assets/ui/achievements.svg" width="100%" alt="Achievements: AWS CERTIFIED DEVELOPER: Associate (DVA-C02) Â· valid Nov 2025 â€“ Nov 2028. AWS GAMEDAY 2025 Â· 2ND: Cloud architecture &amp; operations challenge. AWS DEEPRACER 2024 Â· 3RD: Reinforcement learning on AWS AI/ML. B.TECH, COMPUTER SCIENCE: Rajarambapu Institute of Technology Â· 2023.">
+  <img src="assets/ui/achievements.svg" width="100%" alt="Achievements: AWS CERTIFIED DEVELOPER: Associate (DVA-C02) · valid Nov 2025 – Nov 2028. AWS GAMEDAY 2025 · 2ND: Cloud architecture &amp; operations challenge. AWS DEEPRACER 2024 · 3RD: Reinforcement learning on AWS AI/ML. B.TECH, COMPUTER SCIENCE: Rajarambapu Institute of Technology · 2023.">
 </picture>
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/snake-header-mobile.svg">
-  <img src="assets/ui/snake-header.svg" width="100%" alt="05 // Contribution trail â€” public contributions, eaten by a snake.">
+  <img src="assets/ui/snake-header.svg" width="100%" alt="05 // Contribution trail — public contributions, eaten by a snake.">
 </picture>
 
 <picture>
@@ -43,9 +43,9 @@
 
 <picture>
   <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/RohitJagdale/RohitJagdale/main/assets/ui/footer-mobile.svg">
-  <img src="assets/ui/footer.svg" width="100%" alt="I like systems that run themselves â€” and ship faster because of it. Open to conversations on AI agents, cloud architecture and dev tooling.">
+  <img src="assets/ui/footer.svg" width="100%" alt="I like systems that run themselves — and ship faster because of it. Open to conversations on AI agents, cloud architecture and dev tooling.">
 </picture>
 
-<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/">LinkedIn</a> Â· <a href="mailto:rohitjagadale4@gmail.com">rohitjagadale4@gmail.com</a>
+<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/">LinkedIn</a> · <a href="mailto:rohitjagadale4@gmail.com">rohitjagadale4@gmail.com</a>
 
 </div>

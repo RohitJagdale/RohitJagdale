@@ -313,10 +313,10 @@ def drone(x, y, s):
 </g></g>"""
 
 
-TAGLINE = "AI agents Â· Serverless cloud Â· Digital twins"
+TAGLINE = "AI agents · Serverless cloud · Digital twins"
 HERO_CHIPS = ["SOFTWARE DEVELOPER @ KONE", "AWS CERTIFIED", "PUNE, INDIA"]
 PROMPT = "> teaching AI agents to fix code first."
-HERO_ALT = "ROHIT JAGADALE â€” Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun."
+HERO_ALT = "ROHIT JAGADALE — Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun."
 
 
 def hero_desktop():
@@ -338,8 +338,8 @@ def hero_desktop():
 <rect x=".75" y=".75" width="{w - 1.5}" height="{h - 1.5}" rx="27.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 {t(w - 40, 52, "github.com/RohitJagdale", 15, DIM, "mono", 500, "end", 2)}
 <circle class="pulse" cx="72" cy="47" r="5" fill="{GREEN}"/>
-{t(88, 52, "ONLINE Â· SHIPPING AGENTS TO PROD", 14, "#6EE7B7", "mono", 600, spacing=3)}
-{t(72, 168, "SYSTEM BOOT â€” USER:", 18, CYAN, "mono", 600, spacing=6)}
+{t(88, 52, "ONLINE · SHIPPING AGENTS TO PROD", 14, "#6EE7B7", "mono", 600, spacing=3)}
+{t(72, 168, "SYSTEM BOOT — USER:", 18, CYAN, "mono", 600, spacing=6)}
 <text x="68" y="252" class="sans" font-size="76" font-weight="800" fill="url(#name)" textLength="690" lengthAdjust="spacing">ROHIT JAGADALE</text>
 <rect x="72" y="278" width="140" height="4" rx="2" fill="url(#accent)"/>
 {t(72, 330, TAGLINE, 27, "#D4DAF7", "sans", 500)}
@@ -370,11 +370,11 @@ def hero_mobile():
 <rect x="1" y="1" width="{w - 2}" height="{h - 2}" rx="31" fill="none" stroke="url(#edge)" stroke-width="2"/>
 <circle class="pulse" cx="56" cy="62" r="7" fill="{GREEN}"/>
 {t(76, 70, "ONLINE · @ KONE", 24, "#6EE7B7", "mono", 600, spacing=4)}
-{t(w / 2, 580, "SYSTEM BOOT â€” USER:", 26, CYAN, "mono", 600, "middle", 6)}
+{t(w / 2, 580, "SYSTEM BOOT — USER:", 26, CYAN, "mono", 600, "middle", 6)}
 <text x="{w / 2}" y="684" class="sans" font-size="104" font-weight="800" fill="url(#name)" text-anchor="middle">ROHIT</text>
 <text x="{w / 2}" y="792" class="sans" font-size="104" font-weight="800" fill="url(#name)" text-anchor="middle" textLength="640" lengthAdjust="spacing">JAGADALE</text>
 <rect x="{w / 2 - 80}" y="818" width="160" height="5" rx="2.5" fill="url(#accent)"/>
-{t(w / 2, 872, "AI agents Â· Serverless cloud", 34, "#D4DAF7", "sans", 500, "middle")}
+{t(w / 2, 872, "AI agents · Serverless cloud", 34, "#D4DAF7", "sans", 500, "middle")}
 {t(w / 2, 916, "Digital twins", 34, "#D4DAF7", "sans", 500, "middle")}
 {chips_row(HERO_CHIPS[1:], 40, 950, w - 80, 22, 48, 14, center=True)[0]}
 """
@@ -403,9 +403,9 @@ def button(kind, label, sub, color):
 {icon_tile(kind, 22, 21, 68, color)}
 {t(110, 56, label, 28, color, "mono", 700, spacing=3)}
 {t(110, 86, sub, 19, MUTED, "sans", 500)}
-{t(w - 30, 66, "â†—", 32, color, "sans", 700, "end")}
+{t(w - 30, 66, "↗", 32, color, "sans", 700, "end")}
 """
-    return svg(w, h, f"{label} â€” {sub}", body)
+    return svg(w, h, f"{label} — {sub}", body)
 
 
 # ---------------------------------------------------------------- about
@@ -416,13 +416,13 @@ ABOUT_ITEMS = [
     ("cloud", "SERVERLESS", "Lambda, AppSync, API Gateway and DynamoDB, all in AWS CDK", VIOLET),
     ("cube", "DIGITAL TWINS", "Real-time 3D station twins built with React and Three.js", PINK),
     ("code", "DEV PRODUCTIVITY", "CI/CD automation, AI code review and faster releases", AMBER),
-    ("brief", "EXPERIENCE", "3+ years Â· Software Developer at KONE Elevator since Aug 2023", CYAN),
+    ("brief", "EXPERIENCE", "3+ years · Software Developer at KONE Elevator since Aug 2023", CYAN),
 ]
 TERMINAL = [
     ("$ whoami", DIM),
-    ("â†’ rohit jagadale", TEXT),
-    ("â†’ full stack & cloud dev", TEXT),
-    ("â†’ pune, india", TEXT),
+    ("→ rohit jagadale", TEXT),
+    ("→ full stack & cloud dev", TEXT),
+    ("→ pune, india", TEXT),
     ("", TEXT),
     ("$ cat currently.txt", DIM),
     ("agents that fix code first", PINK),
@@ -486,19 +486,19 @@ def about_mobile():
 # ---------------------------------------------------------------- missions (projects)
 
 MISSIONS = [
-    ("agent", "MCP Servers for Jira & CVMS", "MODEL CONTEXT PROTOCOL Â· IDE",
+    ("agent", "MCP Servers for Jira & CVMS", "MODEL CONTEXT PROTOCOL · IDE",
      "Python MCP servers that let AI agents in VS Code and Kiro IDE fetch context, analyse issues and run developer workflows from the editor.",
      [], ["Python", "MCP", "Tool Calling"], CYAN),
-    ("shield", "Risk-Remediation Agent", "AWS BEDROCK Â· GITLAB CI/CD",
+    ("shield", "Risk-Remediation Agent", "AWS BEDROCK · GITLAB CI/CD",
      "An agent in GitLab CI/CD that fetches CVMS software-risk issues, analyses them and opens merge requests with AI-proposed fixes.",
      [], ["Bedrock", "GitLab CI/CD", "AI Agents"], VIOLET),
-    ("code", "AI Code Review System", "BEDROCK Â· LAMBDA Â· PROMPTS",
+    ("code", "AI Code Review System", "BEDROCK · LAMBDA · PROMPTS",
      "Parses merge-request diffs, writes contextual line-level feedback and de-duplicates comments across review cycles.",
      [], ["Bedrock", "Lambda", "Prompt Eng."], PINK),
     ("station", "StationTwin", "METRO DIGITAL TWIN",
      "Real-time 3D twin of metro stations: React + Three.js, GraphQL on AppSync, GenAI summaries every 8 hours, all in AWS CDK.",
-     ["â–²40% faster 3D loads", "â–²50% faster releases", "â–¼25% latency"], ["React", "Three.js", "AppSync", "CDK"], AMBER),
-    ("form", "Customer Onboarding Portal", "REACT Â· SERVERLESS Â· DYNAMODB Â· RDS",
+     ["▲40% faster 3D loads", "▲50% faster releases", "▼25% latency"], ["React", "Three.js", "AppSync", "CDK"], AMBER),
+    ("form", "Customer Onboarding Portal", "REACT · SERVERLESS · DYNAMODB · RDS",
      "Multi-step site-configuration portal with per-stage validation, two-phase storage in DynamoDB and RDS PostgreSQL, and pre-signed S3 uploads for documents and 3D models.",
      [], ["React", "Redux", "Python", "S3", "CDK"], CYAN),
 ]
@@ -611,10 +611,10 @@ def loadout(w, pad, title_size, stacked, label_size, size, h_pill, gap_row):
 # ---------------------------------------------------------------- achievements
 
 ACHIEVEMENTS = [
-    ("medal", "AWS CERTIFIED DEVELOPER", "Associate (DVA-C02) Â· valid Nov 2025 â€“ Nov 2028", AMBER),
-    ("trophy", "AWS GAMEDAY 2025 Â· 2ND", "Cloud architecture & operations challenge", CYAN),
-    ("trophy", "AWS DEEPRACER 2024 Â· 3RD", "Reinforcement learning on AWS AI/ML", PINK),
-    ("cap", "B.TECH, COMPUTER SCIENCE", "Rajarambapu Institute of Technology Â· 2023", VIOLET),
+    ("medal", "AWS CERTIFIED DEVELOPER", "Associate (DVA-C02) · valid Nov 2025 – Nov 2028", AMBER),
+    ("trophy", "AWS GAMEDAY 2025 · 2ND", "Cloud architecture & operations challenge", CYAN),
+    ("trophy", "AWS DEEPRACER 2024 · 3RD", "Reinforcement learning on AWS AI/ML", PINK),
+    ("cap", "B.TECH, COMPUTER SCIENCE", "Rajarambapu Institute of Technology · 2023", VIOLET),
 ]
 ACH_ALT = "Achievements: " + " ".join(f"{label}: {text}." for _, label, text, _ in ACHIEVEMENTS)
 
@@ -635,17 +635,17 @@ def achievements(w, cols, pad, title_size, label_size, text_size, tile, gap):
 
 # ---------------------------------------------------------------- snake header & footer
 
-SNAKE_ALT = "05 // Contribution trail â€” public contributions, eaten by a snake."
+SNAKE_ALT = "05 // Contribution trail — public contributions, eaten by a snake."
 
 
 def snake_header(w, pad, title_size, sub_size):
     h = 72 + title_size + 16 + sub_size + 46
     body = card_frame(w, h, "05", "CONTRIBUTION TRAIL", "Every commit feeds the snake", title_size, pad, beam=False, label_size=16 if w > 1000 else 22)
-    body += t(pad, 72 + title_size + 16 + sub_size + 18, "Public contributions Â· refreshed daily", sub_size, MUTED, "sans", 500)
+    body += t(pad, 72 + title_size + 16 + sub_size + 18, "Public contributions · refreshed daily", sub_size, MUTED, "sans", 500)
     return svg(w, int(h), SNAKE_ALT, body)
 
 
-QUOTE = "I like systems that run themselves â€” and ship faster because of it."
+QUOTE = "I like systems that run themselves — and ship faster because of it."
 FOOTER_ALT = QUOTE + " Open to conversations on AI agents, cloud architecture and dev tooling."
 
 
@@ -697,8 +697,8 @@ ASSETS = {
     "achievements-mobile.svg": lambda: achievements(800, 1, 48, 46, 20, 28, 72, 50),
     "snake-header.svg": lambda: snake_header(1200, 56, 34, 19),
     "snake-header-mobile.svg": lambda: snake_header(800, 48, 46, 28),
-    "footer.svg": lambda: footer(1200, 240, 28, 16, "open to talk: AI agents Â· cloud architecture Â· dev tooling"),
-    "footer-mobile.svg": lambda: footer(800, 340, 38, 24, "AI agents Â· cloud Â· dev tooling"),
+    "footer.svg": lambda: footer(1200, 240, 28, 16, "open to talk: AI agents · cloud architecture · dev tooling"),
+    "footer-mobile.svg": lambda: footer(800, 340, 38, 24, "AI agents · cloud · dev tooling"),
 }
 for _kind, _label, _sub, _color, _ in BUTTONS:
     ASSETS[f"btn-{_kind}.svg"] = (lambda k=_kind, l=_label, s=_sub, c=_color: button(k, l, s, c))
@@ -713,7 +713,7 @@ def responsive(name, alt):
 
 def readme():
     buttons = "\n".join(
-        f'<a href="{escape(url)}"><img src="assets/ui/btn-{kind}.svg" width="32%" alt="{escape(label.title())} â€” {escape(sub)}"></a>'
+        f'<a href="{escape(url)}"><img src="assets/ui/btn-{kind}.svg" width="32%" alt="{escape(label.title())} — {escape(sub)}"></a>'
         for kind, label, sub, _, url in BUTTONS
     )
     snake = (
@@ -732,7 +732,7 @@ def readme():
         responsive("snake-header", SNAKE_ALT),
         snake,
         responsive("footer", FOOTER_ALT),
-        f'<a href="{LINKEDIN}">LinkedIn</a> Â· <a href="mailto:{EMAIL}">{EMAIL}</a>',
+        f'<a href="{LINKEDIN}">LinkedIn</a> · <a href="mailto:{EMAIL}">{EMAIL}</a>',
         "</div>",
     ]
     return "\n\n".join(parts) + "\n"

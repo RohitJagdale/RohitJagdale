@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title">
-<title id="title">ROHIT JAGADALE â€” Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun.</title>
+<title id="title">ROHIT JAGADALE — Software Developer building AI agents, serverless cloud and digital twins. A neon city skyline under a synthwave sun.</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -200,11 +200,11 @@
 <rect x=".75" y=".75" width="1198.5" height="518.5" rx="27.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 <text x="1160.0" y="52.0" class="mono" font-size="15" font-weight="500" fill="#6B7499" text-anchor="end" letter-spacing="2">github.com/RohitJagdale</text>
 <circle class="pulse" cx="72" cy="47" r="5" fill="#34D399"/>
-<text x="88.0" y="52.0" class="mono" font-size="14" font-weight="600" fill="#6EE7B7" text-anchor="start" letter-spacing="3">ONLINE Â· SHIPPING AGENTS TO PROD</text>
-<text x="72.0" y="168.0" class="mono" font-size="18" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="6">SYSTEM BOOT â€” USER:</text>
+<text x="88.0" y="52.0" class="mono" font-size="14" font-weight="600" fill="#6EE7B7" text-anchor="start" letter-spacing="3">ONLINE · SHIPPING AGENTS TO PROD</text>
+<text x="72.0" y="168.0" class="mono" font-size="18" font-weight="600" fill="#00E5FF" text-anchor="start" letter-spacing="6">SYSTEM BOOT — USER:</text>
 <text x="68" y="252" class="sans" font-size="76" font-weight="800" fill="url(#name)" textLength="690" lengthAdjust="spacing">ROHIT JAGADALE</text>
 <rect x="72" y="278" width="140" height="4" rx="2" fill="url(#accent)"/>
-<text x="72.0" y="330.0" class="sans" font-size="27" font-weight="500" fill="#D4DAF7" text-anchor="start">AI agents Â· Serverless cloud Â· Digital twins</text>
+<text x="72.0" y="330.0" class="sans" font-size="27" font-weight="500" fill="#D4DAF7" text-anchor="start">AI agents · Serverless cloud · Digital twins</text>
 <text x="72.0" y="372.0" class="mono" font-size="18" font-weight="500" fill="#A3ACCF" text-anchor="start">&gt; teaching AI agents to fix code first.</text>
 <rect class="cursor" x="506" y="357" width="10" height="20" fill="#00E5FF"/>
 <rect x="72.0" y="412.0" width="247.5" height="34" rx="17.0" fill="none" stroke="#00E5FF" stroke-opacity=".6"/><rect x="72.0" y="412.0" width="247.5" height="34" rx="17.0" fill="#00E5FF" fill-opacity=".1"/><text x="195.8" y="434.0" class="mono" font-size="14" font-weight="600" fill="#00E5FF" text-anchor="middle" letter-spacing="1">SOFTWARE DEVELOPER @ KONE</text>

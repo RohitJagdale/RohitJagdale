@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="110" viewBox="0 0 380 110" role="img" aria-labelledby="title">
-<title id="title">GMAIL â€” say hello</title>
+<title id="title">GMAIL — say hello</title>
 <style>
 .sans{font-family:'Segoe UI', 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
 .mono{font-family:ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', monospace}
@@ -61,6 +61,6 @@
 <rect x="22" y="21" width="68" height="68" rx="19.0" fill="#FF2BD6" fill-opacity=".1" stroke="#FF2BD6" stroke-opacity=".45"/><g transform="translate(37.0 36.0) scale(1.587)" fill="none" stroke="#FF2BD6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="m4 7 8 6 8-6"/></g>
 <text x="110.0" y="56.0" class="mono" font-size="28" font-weight="700" fill="#FF2BD6" text-anchor="start" letter-spacing="3">GMAIL</text>
 <text x="110.0" y="86.0" class="sans" font-size="19" font-weight="500" fill="#A3ACCF" text-anchor="start">say hello</text>
-<text x="350.0" y="66.0" class="sans" font-size="32" font-weight="700" fill="#FF2BD6" text-anchor="end">â†—</text>
+<text x="350.0" y="66.0" class="sans" font-size="32" font-weight="700" fill="#FF2BD6" text-anchor="end">↗</text>
 
 </svg>
