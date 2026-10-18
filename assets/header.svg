@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Rohit Jagadale - Full Stack and AI Engineer">
+  <title>Rohit Jagadale - Full Stack &amp; AI Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05010f"/>
+      <stop offset="0.55" stop-color="#0b0730"/>
+      <stop offset="1" stop-color="#021a2b"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#ff2bd6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00f0ff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="260" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#grid)"/>
+
+    <!-- scanning line -->
+    <rect x="0" y="0" width="1000" height="2" fill="#00f0ff" opacity="0.35">
+      <animate attributeName="y" values="0;258;0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- orbiting nodes (agent network) -->
+    <g transform="translate(850 130)" opacity="0.9">
+      <circle r="78" fill="none" stroke="#a855f7" stroke-opacity="0.35" stroke-dasharray="4 8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="50" fill="none" stroke="#00f0ff" stroke-opacity="0.4" stroke-dasharray="2 6">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="14" fill="#0b0730" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+        <circle cx="78" cy="0" r="5" fill="#ff2bd6" filter="url(#glow)"/>
+        <circle cx="-50" cy="0" r="4" fill="#00f0ff" filter="url(#glow)"/>
+        <circle cx="0" cy="-78" r="3.5" fill="#a855f7" filter="url(#glow)"/>
+      </g>
+    </g>
+
+    <!-- corner brackets -->
+    <g stroke="#00f0ff" stroke-width="2" fill="none" opacity="0.7">
+      <path d="M24 54V24H54"/><path d="M976 54V24H946"/>
+      <path d="M24 206V236H54"/><path d="M976 206V236H946"/>
+    </g>
+
+    <text x="60" y="78" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#00f0ff" opacity="0.8" letter-spacing="3">&gt; SYSTEM.BOOT // PUNE, INDIA</text>
+    <text x="58" y="142" font-family="'Segoe UI', Verdana, sans-serif" font-size="60" font-weight="800" fill="url(#neon)" filter="url(#glow)" letter-spacing="2">ROHIT JAGADALE</text>
+    <text x="60" y="184" font-family="Consolas, 'Courier New', monospace" font-size="21" fill="#e2e8f0" letter-spacing="1">Full Stack &amp; AI Engineer · AWS · GenAI Agents · MCP</text>
+    <rect x="60" y="204" width="0" height="3" fill="url(#neon)">
+      <animate attributeName="width" values="0;520;520" keyTimes="0;0.4;1" dur="4s" fill="freeze"/>
+    </rect>
+    <text x="590" y="210" font-family="Consolas, monospace" font-size="18" fill="#ff2bd6">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
