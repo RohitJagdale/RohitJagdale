@@ -1,84 +1,141 @@
-<!-- <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
- -->
-<h1 align='center'> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<div align="center">
 
+<img src="./assets/header.svg" alt="Rohit Jagadale - Full Stack & AI Engineer" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=RohitJagdale&color=green)
-[![Github](https://img.shields.io/github/followers/RohitJagdale?label=Follow&style=social)](https://github.com/RohitJagdale)
-<div size='20px'> Hi! My name is Rohit. Thank You for taking the time to view my GitHub Profile :smile: 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=720&lines=Building+autonomous+AI+agents+on+AWS+Bedrock;MCP+servers+%E2%80%A2+Agentic+dev+tooling;Serverless+%E2%80%A2+GraphQL+%E2%80%A2+AWS+CDK;Digital+twins+in+React+%2B+Three.js" alt="Typing intro"/></a>
+
+<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/"><img src="https://img.shields.io/badge/LinkedIn-0A0F2C?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
+<a href="mailto:rohitjagadale4@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0F2C?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Gmail"/></a>
+<a href="https://www.credly.com/badges/353ecc9b-15c6-4e49-ad0b-f9968e63480a/linked_in_profile"><img src="https://img.shields.io/badge/AWS_Certified_Developer-0A0F2C?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Certified Developer - Associate"/></a>
+<img src="https://komarev.com/ghpvc/?username=RohitJagdale&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
-<!-- <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px align = 'center'> -->
-<h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently pursuing my B.Tech in CSE.
-  
-- 🌱 I’m currently learning flutter and dart.
-  
-- 💬 Ask me about Android, Java.
-  
-- ⚡ Fun fact: linux > windows.
+---
 
-<h2> Skills <img  src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<!-- <a href= https://github.com/MusheerJ> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a> -->
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>  
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<!-- <a href= https://github.com/MusheerJ> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a> -->
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<!-- <a href= https://github.com/RohitJagdale> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>  -->
-  
-<!-- <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a> -->
+## `> whoami`
 
+```yaml
+name:      Rohit Jagadale
+role:      Software Developer @ KONE Elevator   # Aug 2023 → present
+location:  Pune, India
+focus:     [AI Agents, MCP, AWS Bedrock, Serverless, Digital Twins]
+experience: 3+ years
+currently: Teaching AI agents to fix code before humans have to
+```
 
-<h2> Connect with me <img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href= https://www.linkedin.com/in/rohit-jagdale-317b5020b > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'> </a>
-<a href= https://www.instagram.com/rohitjagdale_ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a>
-<a href= https://github.com/RohitJagdale> <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsTFhnXnrBMXsmjHRNRTKShjSCHwlhLxBCWgghpSmCqwnPPshnNbtxnDKwZgzFXPKgjDCmNB target=_blank > <img width ='31px' src ='https://cdn-icons-png.flaticon.com/512/281/281769.png'> </a>
-<!-- <a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' 
-src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
-  
-<br>
-<br>
-  <br>
-  
-<!-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+I'm a **Full Stack & Cloud Developer** who builds cloud-native platforms, AI-powered automation and developer-productivity tools. My day-to-day spans **AWS serverless architecture, CI/CD automation, digital twin platforms and LLM-based agents** wired into GitLab and the IDE. I like systems that run themselves — and ship faster because of it.
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | -->
+---
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+## `> ls ./projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 🤖 MCP Servers for Jira & CVMS
+Python **Model Context Protocol** servers that let autonomous AI agents inside **VS Code and Kiro IDE** fetch context, analyze issues and run developer workflows straight from the editor.
 
+`Python` `MCP` `Tool Calling` `LLM`
 
-<!-- -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+</td>
+<td width="50%" valign="top">
 
-Last Edited on: 04/09/2021 -->
+### 🛠️ Autonomous Risk-Remediation Agent
+An AI agent plugged into **GitLab CI/CD** that fetches CVMS software-risk issues, analyzes them and opens **merge requests with AI-proposed fixes** — cutting manual remediation effort.
+
+`AWS Bedrock` `GitLab CI/CD` `AI Agents`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 AI Code Review System
+Automated reviewer on **AWS Bedrock + Lambda** that parses MR diffs, writes contextual **line-level feedback** and de-duplicates comments across review cycles.
+
+`Bedrock` `Lambda` `Prompt Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚇 StationTwin — Metro Digital Twin
+Real-time digital twin of metro stations: **3D visualization** in React + Three.js, **GraphQL on AppSync**, GenAI summaries every 8 hours, full stack in **AWS CDK**.
+
+- ⚡ **40%** faster 3D model load
+- 🚀 **50%** faster releases via GitLab CI/CD
+- 📉 **25%** lower data-transfer latency
+
+`React` `Three.js` `AppSync` `CDK` `Azure AD SSO`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧾 Customer Onboarding Portal
+Multi-step linked-form portal for customer site configuration with per-stage validation. Two-phase storage (in-progress metadata in **DynamoDB**, finalized drafts in **RDS PostgreSQL**), direct-to-S3 uploads of documents and 3D models via **pre-signed URLs**, and serverless REST APIs on Lambda + API Gateway.
+
+`React` `Redux` `Python` `DynamoDB` `RDS` `S3` `CDK`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat skills.json`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,python,ts,react,redux,threejs,graphql,fastapi,docker,gitlab,mysql,postgres,java&theme=dark" alt="Tech stack icons"/>
+
+</div>
+
+| Domain | Stack |
+|---|---|
+| 🧠 **AI / Agentic** | AWS Bedrock · MCP · LLM Integration · AI Agents · Tool Calling · Agent Workflows · Prompt Engineering |
+| ☁️ **Cloud & DevOps** | Lambda · S3 · CloudFront · ECS · EC2 · API Gateway · AppSync · DynamoDB · RDS · AWS CDK (TS) · GitLab CI/CD · Docker |
+| 🎨 **Frontend** | React.js · Redux · Three.js · Chakra UI |
+| ⚙️ **Backend** | Python · FastAPI · REST · GraphQL |
+| 🗄️ **Databases** | MySQL · DynamoDB · RDS |
+| 💻 **Languages** | TypeScript · Python · Java |
+
+---
+
+## `> achievements --list`
+
+| | |
+|---|---|
+| 🏅 | **AWS Certified Developer – Associate (DVA-C02)** · valid Nov 2025 – Nov 2028 · [verify on Credly](https://www.credly.com/badges/353ecc9b-15c6-4e49-ad0b-f9968e63480a/linked_in_profile) |
+| 🥈 | **AWS GameDay 2025 — 2nd Place** · Cloud Architecture & Operations challenge |
+| 🥉 | **AWS DeepRacer 2024 — 3rd Place** · Reinforcement learning & AWS AI/ML |
+| 🎓 | **B.Tech, Computer Science** · Rajarambapu Institute of Technology · 2023 |
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RohitJagdale&theme=tokyonight&hide_border=true&background=0A0F2C&ring=A855F7&fire=FF2BD6&currStreakLabel=00F0FF" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitJagdale&bg_color=0A0F2C&color=00F0FF&line=A855F7&point=FF2BD6&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> connect --open`
+
+**Open to conversations on AI agents, cloud architecture and dev tooling.**
+
+<a href="https://www.linkedin.com/in/rohit-jagadale-317b5020b/">LinkedIn</a> ·
+<a href="mailto:rohitjagadale4@gmail.com">rohitjagadale4@gmail.com</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A855F7,100:FF2BD6&height=110&section=footer" alt="" width="100%"/>
+
+</div>
